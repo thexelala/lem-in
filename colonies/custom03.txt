@@ -1,0 +1,13 @@
+450
+##start
+X 1 1
+Y 2 2
+Z 3 3
+##end
+W 4 4
+X-Y
+Y-Z
+Z-W
+W-X
+X-Z
+Y-W

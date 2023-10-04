@@ -1,0 +1,23 @@
+20
+##start
+A 10 20
+B 5 15
+#comment
+C 30 5
+D 12 8
+E 8 12
+##end
+F 40 50
+A-C
+B-D
+C-E
+D-F
+E-A
+F-B
+#another comment
+A-E
+B-C
+C-D
+D-E
+E-F
+F-A
